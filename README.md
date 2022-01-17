@@ -32,7 +32,6 @@ Follow the steps in the main script.
 ## Getting the required data from your account
 _Note: This is also explained in the output of the script itself_
 
-###Client ID and Client Secret
 These are so called API-keys bound to your account. Never pass these to strangers. In this code, they will be processed
 exclusively by the Spotify Servers/API.
 
