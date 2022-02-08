@@ -1,7 +1,5 @@
 # Spotify Archiver
 
-_Hendrik Laux, 2022_
-
 Script to export your Spotify playlists (incl. title, artist, album, etc ...) in a readable format for sharing and/or archiving.
 
 All the steps needed to get the required information (client details etc ...) are explained IN the script to make it
